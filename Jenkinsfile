@@ -1,4 +1,4 @@
-@library('SLDemo') _
+@Library('SLDemo') _
 
 pipeline{
     agent any
